@@ -6,7 +6,7 @@
 name: socialtrellis blog
 
 # Short bio or description (displayed in the header)
-description: Blog about Englis and other stuff
+description: English and stuff
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
@@ -19,7 +19,7 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 footer-links:
   dribbble:
   email: business@socialtrellis.com
-  facebook:
+  facebook: https://business.facebook.com/Socialtrellis-2169979479729587
   flickr:
   github:
   instagram: https://www.instagram.com/socialtrellis/
