@@ -41,7 +41,11 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: https://romeokilo85.github.io
+url: https://blog.socialtrellis.com
+
+# This is a link to root site that is hosting us, assuming that this is a blog subdomain.
+# Make this the same as baseurl otherwise.
+rooturl: https://socialtrellis.com
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
