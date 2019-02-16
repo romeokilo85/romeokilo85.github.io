@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Credibility Killers: Mistakes that damage your reputation
+title: Credibility Killers, Mistakes that damage your reputation
 date: 2019-02-16
 ---   
 
