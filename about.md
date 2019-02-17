@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hey, thanks for checking us out. This is the blog for https://socialtrellis.com. We run an English correction service. Check out our [about page](https://socialtrellis.com/about) if you'd like to learn more!
 
-### More Information
+### Contact us
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[business@socialtrellis.com](mailto:business@socialtrellis.com)
